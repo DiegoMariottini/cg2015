@@ -24,11 +24,11 @@ var Photo = function(nomeFoto){
         lista = lista + persone[i]+ ", ";
       };
       
-      lista=lista+persone[persone.length];
-      console.log();
+      lista=lista+persone[(persone.length-1)];
+      console.log(lista);
     }
     creaListaNomi(this.personeNellaFoto);
-  }
+  },
 
 }
 }
@@ -63,21 +63,23 @@ var PhotoAlbum= function(){
       return fotoInCuiCE;
     }
     var visualizzaFoto= function(persona){
+      
       var i;
       var stringa="";
       var lista= listaFoto(persona);
-      for (i = 0; i < lista.length; i++) {
+      
+      if (lista.length===0){return undefined};
+      for (i = 0; i < (lista.length-1); i++) {
         stringa=stringa+lista[i];
-        if (!(i===(lista.length-1)) {
-          stringa=stringa+", ";
-        };
-
       };
-      return stringa;
-    }
-    console.log(visualizzaFoto(persona));
 
-  }
+      stringa= stringa + lista[(lista.length-1)];
+      
+      return console.log(stringa);
+    }
+    visualizzaFoto(persona);
+
+  },
 }
 }
 
