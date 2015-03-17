@@ -19,7 +19,7 @@
     return { play: max_played, index: max_index };
   };
 
-  var music = [{played:"pippo"}]
+  var music = [{played:0}]
 
   var fav = favorite_album( music );
 

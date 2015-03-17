@@ -1,21 +1,31 @@
 (function() {
-// Write your code here  
-  var Album = function(nome,cantante){
-    return {play:function(){
-      this.numeroDiVolteAscoltate += 1;
-      console.log("Playing "+ nome + " - "+cantante)
-    },
-    numeroDiVolteAscoltate:0,
-    }
-  }
+// Write your code here    function Album(artist,name){
+function Album(artist,name){
+	if (!(this instanceof Album)){
+        return new Album(artist,name);
+   	}
+   	this.artist=artist;
+   	this.name=name;
+    this.numeroDiVolteAscoltate=0;
+};
 
- var MusicBox= function() {
-    return{
-    albumCheAscolto:[],
-    addAlbum:function(albumDaAggiungere){
-      this.albumCheAscolto.push(albumDaAggiungere);
-    },
-    favoriteAlbum: function(){
+Album.prototype.play=function(){
+      this.numeroDiVolteAscoltate += 1;
+      console.log("Playing "+ this.name + " - "+this.artist)
+};
+
+var MusicBox =function(){
+ 	if (!(this instanceof MusicBox)) {
+ 		return new MusicBox();
+ 	};
+ 	this.albumCheAscolto=[];
+};
+
+MusicBox.prototype.addAlbum=function(albumDaAggiungere){
+  this.albumCheAscolto.push(albumDaAggiungere);
+};
+
+MusicBox.prototype.favoriteAlbum = function(){
       var Cercalo = function(album){
         if (album.length===0) {
           return Album("","")
@@ -30,17 +40,12 @@
           };
         };
 
-        return favorite;
+        return (favorite.name + " - " + favorite.artist);
       }
-      Cercalo(this.albumCheAscolto);
-    }
+      return Cercalo(this.albumCheAscolto);
+    };
 
 
-
-
-    }
-  };
-  
 
   var box = MusicBox();
   var a1 = Album("The Who", "Tommy");

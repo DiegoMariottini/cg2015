@@ -2,17 +2,18 @@
   // Code goes here
 
 var Photo = function(nomeFoto){
-  return{
-  nomeFoto:nomeFoto,
+  if (!(this instanceof Photo)){
+    return new Photo(nomeFoto);
+  }
+  this.nomeFoto=nomeFoto;
+  this.personeNellaFoto=[];
+};
 
-  personeNellaFoto:[],
+Photo.prototype.tag = function(nomePersonaNellaFoto) {
+  this.personeNellaFoto.push(nomePersonaNellaFoto);
+};
 
-  tag:function(nomePersonaNellaFoto){
-    this.personeNellaFoto.push(nomePersonaNellaFoto);
-  },
-
-
-  showTags: function(){
+Photo.prototype.showTags = function() {
     var creaListaNomi=function(persone){
       var lista="";
       var i;
@@ -28,31 +29,34 @@ var Photo = function(nomeFoto){
       console.log(lista);
     }
     creaListaNomi(this.personeNellaFoto);
-  },
+  };
 
-}
-}
 
 
 var PhotoAlbum= function(){
-  return{
-  fotoNellAlbum:[],
+  if (!(this instanceof PhotoAlbum)){
+    return new PhotoAlbum();
+  };
+  this.fotoNellAlbum = [];
+};
   
-  addPicture:function(foto){
+PhotoAlbum.prototype.addPicture = function(foto) {
     this.fotoNellAlbum.push(foto);
-  },
+};
 
-  showPictures:function(persona){
-    var CercaPersonaNellaFoto=function(foto,persona){
+
+PhotoAlbum.prototype.showPictures = function(persona) {
+  var CercaPersonaNellaFoto=function(foto,persona){
       var i;
-      for (i = 0; i < foto.personeNellaFoto.length; i++) {
-        if (foto.personeNellaFoto[i]===persona) {
+      var personeNellaFoto=foto.personeNellaFoto;
+      for (i = 0; i < personeNellaFoto.length; i++) {
+        if (personeNellaFoto[i]===persona) {
           return 1===1;
         };
       };
       return 2===1;
     }
-    var listaFoto=function(persona){
+  var listaFoto=function(persona){
       var i;
       var fotoInCuiCE=[];
       for (i = 0; i < this.fotoNellAlbum.length; i++) {
@@ -62,27 +66,24 @@ var PhotoAlbum= function(){
       };
       return fotoInCuiCE;
     }
-    var visualizzaFoto= function(persona){
+  var visualizzaFoto= function(persona){
       
       var i;
       var stringa="";
-      var lista= listaFoto(persona);
+      var lista= [].concat(listaFoto(persona));
       
       if (lista.length===0){return undefined};
+
       for (i = 0; i < (lista.length-1); i++) {
         stringa=stringa+lista[i];
       };
 
-      stringa= stringa + lista[(lista.length-1)];
+      stringa+= lista[(lista.length-1)];
       
       return console.log(stringa);
     }
     visualizzaFoto(persona);
-
-  },
-}
-}
-
+};
 
   var album = PhotoAlbum();
   var p;

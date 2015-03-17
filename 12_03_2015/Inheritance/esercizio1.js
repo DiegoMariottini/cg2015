@@ -12,24 +12,27 @@ Door.prototype.close = function() {
 
 var SecurityDoor= function(){
 	Door.cool();
-	this.bloccata = 0; // bloccata=1,non bloccata=0
 }
 
+SecurityDoor.prototype = Object.create(Door.prototype);
+SecurityDoor.prototype.constructor = SecurityDoor;
+
+
 SecurityDoor.prototype.open = function() {
-	if(this.bloccata=0) {
+	if(!(this.state="lock")) {
 		this.state="open";
 	};
 };
 
 SecurityDoor.prototype.lock = function() {
 	if(this.state="close") {
-		this.bloccata=1;
+		this.state="lock";
 	};
 };
 
 
 SecurityDoor.prototype.unlock = function() {
-	this.bloccata=0;
+	this.state="close";
 };
 
 
