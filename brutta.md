@@ -33,19 +33,19 @@ Composta da:
 
 Questa sala è composta da:
 
-*Parete a vetro per parlare con i pazienti(la quale da direttamente sulla sala di attesa)
+ * Parete a vetro per parlare con i pazienti(la quale da direttamente sulla sala di attesa)
 
-*Tavolo di lavoro(dietro la parete a vetro di accettazione)sui quali troviamo computer,telefono e stampanti
+ * Tavolo di lavoro(dietro la parete a vetro di accettazione)sui quali troviamo computer,telefono e stampanti
 
-*Armadio archivio esami recenti,i quali devono ancora essere ritirati
+ * Armadio archivio esami recenti,i quali devono ancora essere ritirati
 
-*Stampante e fotocopiatrice
+ * Stampante e fotocopiatrice
 
-*Secchio per l'immondizia
+ * Secchio per l'immondizia
 
-*Tavolo centrale con sedie
+ * Tavolo centrale con sedie
 
-*Bacheca dove appendere avvisi e turni tecnici dei medici
+ * Bacheca dove appendere avvisi e turni tecnici dei medici
 
 - - -
 
@@ -61,17 +61,17 @@ Tale stanza è formata da armadi e scafali dove vengono messe tutte le risposte 
 
 Ci lavora solo il medico ed è composta da:
 
-*Scrivania con pc,telefono
+ * Scrivania con pc,telefono
 
-*Sedia
+ * Sedia
 
-*Lettino per una persona
+ * Lettino per una persona
 
-*Ecografo
+ * Ecografo
 
-*Armadietto con gel e carta per il paziente
+ * Armadietto con gel e carta per il paziente
 
-*Secchio per l'immondizia
+ * Secchio per l'immondizia
 
 - - -
 
