@@ -8,7 +8,7 @@
 
 - - -
 
-## * **Introduzone** *
+## *Introduzone*
 
 Il reparto di radiologia si divide in vari sottoreparti i quali sono divisi principalmente in due aree una per il paziente e una per i medici.
 
