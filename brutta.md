@@ -3,6 +3,6 @@
 - - -
 *Progetto di grafica computazionale*
 
-* __Diego Mariottini__ *
+* **Diego Mariottini** *
 - - -
 
