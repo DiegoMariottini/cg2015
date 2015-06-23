@@ -15,7 +15,7 @@ In questo documento si parlerà delle varie sale che si trovano in tale reparto 
 
 - - -
 
-## Sala di attesa
+## *Sala di attesa*
 Composta da:
 
  * Sedie,
@@ -27,7 +27,7 @@ Composta da:
 
 - - -
 
-## Sala di accettazione
+## *Sala di accettazione*
 Questa sala è composta da:
 
  * Parete a vetro per parlare con i pazienti(la quale da direttamente sulla sala di attesa)
@@ -46,14 +46,14 @@ Questa sala è composta da:
 
 - - -
 
-## Archivio
+## *Archivio*
 Vicino alla sala di accettazione.
 
 Tale stanza è formata da armadi e scafali dove vengono messe tutte le risposte degli esami non ritirati divisi per anni e per ordine alfabetico.
 
 - - -
 
-## Sala per ecorgrafia
+## *Sala per ecorgrafia*
 Ci lavora solo il medico ed è composta da:
 
  * Scrivania con pc,telefono
@@ -70,14 +70,14 @@ Ci lavora solo il medico ed è composta da:
 
 - - -
 
-## Bagno
+## *Bagno*
 Il bagno è composto da lavandino,specchiera,water con maniglie per disabili.
 
 E' previsto un bagno per i pazienti per ogni singolo sottoreparto(ecografia,mammografia,tac...) e anche qualcuno per i medici.
 
 - - -
 
-## Ufficio prenotazioni esami
+## *Ufficio prenotazioni esami*
 Composto da:
 
  * Scrivanie
@@ -90,7 +90,7 @@ Composto da:
 
 - - -
 
-## Sezione raggi x
+## *Sezione raggi x*
 
 
 
