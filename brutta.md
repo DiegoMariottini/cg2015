@@ -92,7 +92,38 @@ Composto da:
 
 ## *Sezione raggi x*
 
+Tale sezione è suddivisa in due sezioni
+La prima composta da:
 
+ * Condizionatore
+
+ * Tavolo sedie e telefono
+
+ * Postazione TSRM per acquisizione immagini(può essere DR(digitale) o CR(analogico))
+
+ * Console tecnico con tavolo di comando per scatare raggi x e dare raggi; davanti alla console la parete è in vetro per tenere sottocontrollo il paziente
+
+- - -
+
+## *Sezione raggi x*
+
+L'altra area è quella dove avvene l'analisi ed è composta da:
+
+ * Pensile
+
+ * Trocostratigrafo
+
+ * Appendiabiti
+
+ * Sedia per persona da esaminare
+
+ * Sedia per poggiare le cose della persona
+
+ * Secchio per l'immondizia
+
+ * Diafanoscopio
+
+Le pareti di questa area devono essere piombate per evitare la propagazione dei raggi
 
 - - -
 
