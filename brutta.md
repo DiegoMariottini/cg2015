@@ -1,12 +1,10 @@
-# Radiologia
+## Radiologia
 
 - - -
 * **Progetto di grafica computazionale** *
 
 * **Diego Mariottini** *
 - - -
-
-## Statements
 
 ### Code block statement
 
