@@ -12,7 +12,7 @@
 
 Il reparto di radiologia si divide in vari sottoreparti i quali sono divisi principalmente in due aree una per il paziente e una per i medici.
 
-In questo documento si parlerà degli oggetti e come devono essere tali reparti in linea molto generale
+In questo documento si parlerà delle varie sale che si trovano in tale reparto e cosa hanno al loro interno
 
 - - -
 
