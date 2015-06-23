@@ -1,5 +1,9 @@
-# Statements
+# Radiologia
 
+- - -
+* **Progetto di grafica computazionale** *
+
+* **Diego Mariottini** *
 - - -
 
 ## Statements
