@@ -92,7 +92,13 @@ Composto da:
 
 ## *Sezione raggi x*
 
-Tale sezione è suddivisa in due sezioni
+Spesso la sezione a raggi x è divisa in due sale le quali andiamo a esaminare separatamente
+
+- - -
+
+## *Sezione raggi x: Prima sala*
+
+Tale sezione è suddivisa in due stanze
 La prima composta da:
 
  * Condizionatore
@@ -105,9 +111,9 @@ La prima composta da:
 
 - - -
 
-## *Sezione raggi x*
+## *Sezione raggi x: Prima sala*
 
-L'altra area è quella dove avvene l'analisi ed è composta da:
+L'altra stanza è quella dove avvene l'analisi ed è composta da:
 
  * Pensile
 
@@ -125,6 +131,18 @@ L'altra area è quella dove avvene l'analisi ed è composta da:
 
 Le pareti di questa area devono essere piombate per evitare la propagazione dei raggi
 
+
+- - -
+
+## *Sezione raggi x: Seconda sala*
+
+è composta da:
+
+ * Piccola sala per far lasciare gli indumenti del paziente con apperndiabiti e sedia
+
+ * Console tecnico con computer in cui è installato il programma per fare OPT e telecranio
+
+ * Vicino alla console per impostare dati per scattare dati e schermo per scopia
 - - -
 
 ## *MOC*
