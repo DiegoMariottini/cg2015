@@ -12,7 +12,7 @@
 
 Il reparto di radiologia si divide in vari sottoreparti i quali sono divisi principalmente in due aree una per il paziente e una per i medici.
 
-In questo documento si parlerà delle varie sale che si trovano in tale reparto e cosa hanno al loro interno
+In questo documento si parlerà delle varie sale che si trovano in tale reparto e cosa hanno al loro interno.
 
 - - -
 
@@ -20,11 +20,12 @@ In questo documento si parlerà delle varie sale che si trovano in tale reparto 
 
 Composta da:
 
-*Sedie
+ * Sedie,
 
-*Tavoli
+ * Tavoli
 
-*Nota* Di solito è prevista una sala di attesa per ogni tipo di analisi che si deve svolgere
+
+*Nota* Di solito è prevista una sala di attesa per ogni tipo di analisi che si deve svolgere.
 
 - - -
 
