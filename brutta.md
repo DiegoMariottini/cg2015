@@ -127,6 +127,22 @@ Le pareti di questa area devono essere piombate per evitare la propagazione dei 
 
 - - -
 
+## *MOC*
+
+ * Condizionatore
+
+ * Stazione di lavoro del TSRM con pc e telefono
+
+ * MOC 
+
+ * Bilancia e misuratore di altezza
+
+ * Armadio: carta,cuscini e fantocci per far avviare la macchina
+
+ * Secchio per l'immondizia
+
+*Nota* a differenza dei raggi x tra la MOC e la stazione di lavoro del TSRM c'è un separè piombato e non un muro ad evitare la propagazione dei raggi.
+- - -
 ## Bibliografia
 brutta
 
