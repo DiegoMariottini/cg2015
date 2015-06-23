@@ -1,8 +1,8 @@
 # Reparto di radiologia
 - - -
 
->		 *Progetto di grafica computazionale*
->		 *Diego Mariottini*
+>		 Progetto di grafica computazionale 	> pippo
+>		 Diego Mariottini			> carlo
 
 - - -
 
