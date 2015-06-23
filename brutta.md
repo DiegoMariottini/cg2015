@@ -7,3 +7,15 @@
 *Diego Mariottini*			
 
 - - -
+
+## Introuzone
+
+- - -
+
+## Alcuni reparti di radiologia
+
+- - -
+
+## Bibliografia
+
+- - -
