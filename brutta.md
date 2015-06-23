@@ -9,7 +9,6 @@
 - - -
 
 ## *Introduzone*
-
 Il reparto di radiologia si divide in vari sottoreparti i quali sono divisi principalmente in due aree una per il paziente e una per i medici.
 
 In questo documento si parlerà delle varie sale che si trovano in tale reparto e cosa hanno al loro interno.
@@ -17,7 +16,6 @@ In questo documento si parlerà delle varie sale che si trovano in tale reparto 
 - - -
 
 ## Sala di attesa
-
 Composta da:
 
  * Sedie,
@@ -30,7 +28,6 @@ Composta da:
 - - -
 
 ## Sala di accettazione
-
 Questa sala è composta da:
 
  * Parete a vetro per parlare con i pazienti(la quale da direttamente sulla sala di attesa)
@@ -50,7 +47,6 @@ Questa sala è composta da:
 - - -
 
 ## Archivio
-
 Vicino alla sala di accettazione.
 
 Tale stanza è formata da armadi e scafali dove vengono messe tutte le risposte degli esami non ritirati divisi per anni e per ordine alfabetico.
@@ -58,7 +54,6 @@ Tale stanza è formata da armadi e scafali dove vengono messe tutte le risposte 
 - - -
 
 ## Sala per ecorgrafia
-
 Ci lavora solo il medico ed è composta da:
 
  * Scrivania con pc,telefono
@@ -76,14 +71,26 @@ Ci lavora solo il medico ed è composta da:
 - - -
 
 ## Bagno
-
 Il bagno è composto da lavandino,specchiera,water con maniglie per disabili.
+
 E' previsto un bagno per i pazienti per ogni singolo sottoreparto(ecografia,mammografia,tac...) e anche qualcuno per i medici.
 
 - - -
 
 ## Ufficio prenotazioni esami
+Composto da:
 
+ * Scrivanie
+
+ * Sedie
+
+ * Secchio per l'immondizia
+
+ * Stampante,fotocopiatrice
+
+- - -
+
+## Sezione raggi x
 
 
 
