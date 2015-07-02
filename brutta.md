@@ -142,17 +142,33 @@ Le pareti di questa area devono essere piombate per evitare la propagazione dei 
 
  * Console tecnico con computer in cui è installato il programma per fare OPT e telecranio
 
- * Vicino alla console per impostare dati per scattare dati e schermo per scopia
+ * Vicino alla console per impostare dati per scattare dati e schermo per scopia con conseguente pedale a terra.
+ 
+ * Se CR abbiamo laser a cassette
+ 
+ * Ortopantomografo telecomandato(OPT)
+ 
+ * Radiografia del cranio(telecranio): con apposito strumento
+ 
+ * Armadio: carta e accessori per eseguire i vari esami
+ 
+ * Secchio dell'immondizia
+ 
+ * Diafanoscopio
+ 
+ * Sviluppatrice pellicole 
+ 
 - - -
 
 ## *MOC*
+Composta da: 
 
  * Condizionatore
 
  * Stazione di lavoro del TSRM con pc e telefono
 
  * MOC 
-
+ 
  * Bilancia e misuratore di altezza
 
  * Armadio: carta,cuscini e fantocci per far avviare la macchina
@@ -161,6 +177,86 @@ Le pareti di questa area devono essere piombate per evitare la propagazione dei 
 
 *Nota* a differenza dei raggi x tra la MOC e la stazione di lavoro del TSRM c'è un separè piombato e non un muro ad evitare la propagazione dei raggi.
 - - -
+
+## *Sala referto medico*
+Composta da:
+
+ * Scrivania con pc e monitor per visualizzare le immagini degli esami
+ 
+ * Telefono
+ 
+ * Secchio dell'immondizia
+ 
+ * Armadio con materiale vario
+ 
+ * Diafanoscopio
+ 
+- - -
+
+## *Sala di mammografia*
+Composta da:
+
+ * Console con pc per dare i raggi dietro un vetro che serve a proteggere l'operatore
+ 
+ * Scrivania con telefono e pc per vedere i dati del paziente e chiudere così l'esame
+ 
+ * Mammografo(CR o DR)
+ 
+ * Separè con dietro una sedia e appendiabiti per la paziente
+ 
+ * armadio con materiale vario (carta e diesinfettante per pulire il mammografo) e accessori per mammografo
+ 
+ * secchio 
+ 
+ * condizionatore
+
+- - -
+
+## *Ufficio del TSRM*
+Ufficio dove è il TSRM con qualifica di amministratore di sistema, ossia risolve tutti i problemi che si verificano con le apparecchiature e con la rete di trasmissione dati. 
+
+In questa sala troviamo:
+
+ * Scrivanie con pc e monitor per vedere le immagini 
+ 
+ * Stampante
+ 
+ * Fotocopiatrice
+ 
+ * Armadio per materiale vario
+ 
+ * Telefono
+- - -
+
+## *Spogliatoio medici e TSRM*
+Devono essere delle stanze divise sia per sesso che per ruolo(TSRM:uomo-donna/Medico:uomo-donna)
+
+All'interno ci devono essere:
+
+ * Panche
+
+ * Armadietti
+ 
+In ognuna di queste stanze ci deve essere un bagno
+
+
+- - -
+
+# *Conclusioni*
+Ogni sottoreparto deve avere un posto o luogo in cui il paziente è in attesa della propria analisi da effettuare o effettuata(aspettare i risultati).
+
+Ogni risultato non ritirato deve restare in un archivio.
+
+In ogni sala ci deve essere quasi sempre un bagno se al paziente viene applicata qualche crema.
+
+In ogni sala in cui il paziente si deve cambiare prima dell'analisi deve essere provvisto di separè o spogliatoio.
+
+Per ogni sottoreparto si deve provvedere a un luogo(vedi MOC) o una stanza(vedi sala raggi x) in cui il medico è protetto dai raggi ma può lo stesso continuare a osservare il paziente.
+
+Deve essereci una sala di referto medico per elaborazione dei dati da parte del medico.
+
+- - -
+
 ## Bibliografia
 brutta
 
